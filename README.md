@@ -112,6 +112,4 @@ EOF  help  quit
 $
 ```
 
-## AUTHORS
- 
-* **Faith Ikhidero** - [Faitholo](https://github.com/Faitholo)
+
